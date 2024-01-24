@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoAPI", "todoAPI\todoAPI.csproj", "{B1EE0602-9647-44CA-9E79-0664B55E9312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtek", "Console\realtek.csproj", "{7732BF41-2E1F-47E6-8EB1-C852F3EFEA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToDatabaseLib", "CsvToDatabaseLib\CsvToDatabaseLib.csproj", "{F2BB2C5A-F771-44D9-92AE-D1F4697CAEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EE0602-9647-44CA-9E79-0664B55E9312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EE0602-9647-44CA-9E79-0664B55E9312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EE0602-9647-44CA-9E79-0664B55E9312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EE0602-9647-44CA-9E79-0664B55E9312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7732BF41-2E1F-47E6-8EB1-C852F3EFEA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7732BF41-2E1F-47E6-8EB1-C852F3EFEA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7732BF41-2E1F-47E6-8EB1-C852F3EFEA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7732BF41-2E1F-47E6-8EB1-C852F3EFEA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BB2C5A-F771-44D9-92AE-D1F4697CAEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BB2C5A-F771-44D9-92AE-D1F4697CAEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BB2C5A-F771-44D9-92AE-D1F4697CAEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BB2C5A-F771-44D9-92AE-D1F4697CAEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C352151F-5EB9-4C0D-9D3F-F388FCB8F04A}
+	EndGlobalSection
+EndGlobal
